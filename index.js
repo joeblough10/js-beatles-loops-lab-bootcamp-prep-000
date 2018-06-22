@@ -14,13 +14,13 @@ function theBeatlesPlay(musicians, instruments) {
 "He was never a vegetarian", 
 "He was a choir boy and boy scout", 
 "He hated the sound of his own voice"]; 
-function johnLennonFacts(array)    { 
-var newArray= [];  
+function johnLennonFacts(arr)    { 
+var result= [];  
 var i = 0;  
-while(i < newArray.length) { 
-newArray.push(facts[i] + '!!!') 
+while(i < arr.length) { 
+result.push(arr[i] + '!!!') 
 i++;  
 } 
-return newArray 
+return result 
 }
 
