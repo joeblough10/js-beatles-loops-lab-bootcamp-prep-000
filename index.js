@@ -22,5 +22,5 @@ result.push(arr[i] + '!!!')
 i++;  
 } 
 return result 
-}} 
+}
 
