@@ -21,6 +21,6 @@ return shoutFacts
 }
 
 
-function iLoveTheBeatles() {
-  
+function iLoveTheBeatles(number) {
+  var array = []
 }
