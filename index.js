@@ -24,5 +24,5 @@ return shoutFacts
 function iLoveTheBeatles(number) {
   var array = [];
   do {array.push("I love the Beatles!");
-    while 
+    while array.length < 15
 }
